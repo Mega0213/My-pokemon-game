@@ -9,3 +9,5 @@ There is 1 gym right now, it WILL change.
 Please put suggestions in the issues tracker for now, I will probably make a dedicated suggestion form later
 
 Download: https://drive.google.com/file/d/1hfGbzsXYJmFAhNu9x8zfSW5OMyzGar7f/view?usp=sharing
+
+I plan to have the next update for it out by the end of the week.
