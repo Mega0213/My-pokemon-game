@@ -8,7 +8,7 @@ There is 1 gym right now, it WILL change.
 
 Please put suggestions in the issues tracker for now, I will probably make a dedicated suggestion form later
 
-#Download fixed (now we have an installer)
+# Download fixed (now we have an installer)
 Download: https://drive.google.com/file/d/1r-46s29e8BX6Zn94s67OiB23NAO9rkdG/view?usp=sharing
 
 I plan to have the next update for it out by the end of the week.
